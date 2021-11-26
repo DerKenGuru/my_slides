@@ -1,0 +1,183 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <title>reveal.js</title>
+
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css">
+    <link rel="stylesheet" href="dist/theme/white.css">
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css">
+</head>
+
+<body>
+    <div class="reveal">
+        <div class="slides">
+
+            <section data-background="proto_cube/rev_pi.png">
+                <h1><mark style="background-color: white">proto_cube</mark></h1>
+                <p><mark style="background-color: white">Industrie 4.0 zur integrativen Erfassung von Betriebs und
+                        Maschinendaten</mark></p>
+
+            </section>
+
+            <section>
+                <h2>Ziel</h2>
+                <p>Wir wollen mehr Informationen über Prozesse an Maschinen</p>
+            </section>
+
+            <section>
+                <h2>Was wird gemacht?</h2>
+                <ol>
+                    <li>Sensordaten erfassen</li>
+                    <li>Kommunikation ermöglichen</li>
+                    <li>IoT-/Datenplatform einrichten</li>
+                    <li>Erfassung von zusätlichen Daten über Web-App</li>
+                </ol>
+            </section>
+            <section>
+                <section>
+                    <h2>Technologische Strucktur</h2>
+                    <img src="proto_cube/mermaid1.svg" alt=""
+                        style="height: 90vh; margin: 0 auto 4rem auto; background: transparent;">
+                </section>
+
+
+                <section>
+                    <h3>RevPi</h3>
+                    <img src="proto_cube/rev_pi.png" alt=""
+                        style="height: 90vh; margin: 0 auto 4rem auto; background: transparent;">
+                </section>
+
+                <section>
+                    <h3>Node-RED</h3>
+                </section>
+
+                <section>
+                    <h3>InfluxDB & Grafana</h3>
+                </section>
+
+                <section>
+                    <h3>Web-App</h3>
+                </section>
+
+            </section>
+
+
+
+            <section>
+                <h2>proto_cube App</h2>
+                <p>
+                    <a href="https://www.google.de">zur App (akt. Google)</a>
+                </p>
+                <p>
+                    <a href="https://www.google.de">zur Grafana (akt. Google)</a>
+                </p>
+            </section>
+
+            <section>
+                <h2>Daten aus App</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Zeit</th>
+                            <th>Maschine</th>
+                            <th>order_id</th>
+                            <th>Aktion</th>
+                            <th>Mitarbeiter</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>08:00</td>
+                            <td>Hobel</td>
+                            <td>01</td>
+                            <td>Bearbeiten start</td>
+                            <td>p_01</td>
+                        </tr>
+                        <tr>
+                            <td>08:15</td>
+                            <td>Hobel</td>
+                            <td>01</td>
+                            <td>Bearbeiten beendet</td>
+                            <td>p_01</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+
+            <section>
+                <h2>Datenanalyse</h2>
+                <img src="proto_cube/OnPaste.20211126-195123.png" alt=""
+                    style="max-height: 90vh; margin: 0 auto 4rem auto; background: transparent;">
+
+
+                <!-- <img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo"
+                            style="height: 50px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"> -->
+            </section>
+
+            <section>
+                <h2>Sensordaten</h2>
+                <img src="proto_cube/Figure_1.png" alt=""
+                    style="max-height: 90vh; margin: 0 auto 4rem auto; background: transparent;">
+            </section>
+
+            <section>
+                <h2>Integration der Daten</h2>
+                <p>Schwimmlinien</p>
+                <p>Zeitstrahlen überlagern</p>
+            </section>
+
+
+            <section>
+                <h1>DANKE für eure Aufmerksamkeit</h1>
+                <p><small>Jonathan Hoss</small></p>
+            </section>
+
+
+
+
+            <!-- <section data-auto-animate>
+                <h2 data-id="code-title">Pretty Code</h2>
+                <pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers>
+                    import React, { useState } from 'react';
+
+                    function Example() {
+                      const [count, setCount] = useState(0);
+
+                      return (
+                        ...
+                      );
+                    }
+                </code></pre>
+                <p>Code syntax highlighting courtesy of <a href="https://highlightjs.org/usage/">highlight.js</a>.</p>
+            </section> -->
+        </div>
+    </div>
+
+
+
+
+    <script src="dist/reveal.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script>
+        // More info about initialization & config:
+        // - https://revealjs.com/initialization/
+        // - https://revealjs.com/config/
+        Reveal.initialize({
+            hash: true,
+
+            // Learn about plugins: https://revealjs.com/plugins/
+            plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+        });
+    </script>
+</body>
+
+</html>
