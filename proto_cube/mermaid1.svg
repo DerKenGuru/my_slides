@@ -1,1 +1,668 @@
-<svg id="graph-div" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="407.4984130859375" style="max-width: 370.5234375px;" viewBox="0 0 370.5234375 407.4984130859375"><style>#graph-div {font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}#graph-div .error-icon{fill:#552222;}#graph-div .error-text{fill:#552222;stroke:#552222;}#graph-div .edge-thickness-normal{stroke-width:2px;}#graph-div .edge-thickness-thick{stroke-width:3.5px;}#graph-div .edge-pattern-solid{stroke-dasharray:0;}#graph-div .edge-pattern-dashed{stroke-dasharray:3;}#graph-div .edge-pattern-dotted{stroke-dasharray:2;}#graph-div .marker{fill:#333333;stroke:#333333;}#graph-div .marker.cross{stroke:#333333;}#graph-div svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#graph-div .label{font-family:"trebuchet ms",verdana,arial,sans-serif;color:#333;}#graph-div .cluster-label text{fill:#333;}#graph-div .cluster-label span{color:#333;}#graph-div .label text,#graph-div span{fill:#333;color:#333;}#graph-div .node rect,#graph-div .node circle,#graph-div .node ellipse,#graph-div .node polygon,#graph-div .node path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#graph-div .node .label{text-align:center;}#graph-div .node.clickable{cursor:pointer;}#graph-div .arrowheadPath{fill:#333333;}#graph-div .edgePath .path{stroke:#333333;stroke-width:2.0px;}#graph-div .flowchart-link{stroke:#333333;fill:none;}#graph-div .edgeLabel{background-color:#e8e8e8;text-align:center;}#graph-div .edgeLabel rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#graph-div .cluster rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}#graph-div .cluster text{fill:#333;}#graph-div .cluster span{color:#333;}#graph-div div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:12px;background:hsl(80, 100%, 96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}#graph-div :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath LS-S LE-R" style="opacity: 1;" id="L-S-R"><path class="path" d="M49.962501525878906,355.4984130859375L49.962501525878906,349.3317464192708C49.962501525878906,343.1650797526042,49.962501525878906,330.8317464192708,54.16427805733546,318.4984130859375C58.36605458879202,306.1650797526042,66.76960765170513,293.8317464192708,70.97138418316167,287.6650797526042L75.17316071461823,281.4984130859375" marker-end="url(#arrowhead125)" style="fill:none"></path><defs><marker id="arrowhead125" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 0 0 L 0 0 z" style="fill: #333"></path></marker></defs></g><g class="edgePath LS-W LE-R" style="opacity: 1;" id="L-W-R"><path class="path" d="M213.74035127284162,355.4984130859375L205.00511088074936,349.3317464192708C196.26987048865712,343.1650797526042,178.7993897044726,330.8317464192708,162.62593411052293,318.4984130859375C146.45247851657328,306.1650797526042,131.5760481128585,293.8317464192708,124.1378329110011,287.6650797526042L116.6996177091437,281.4984130859375" marker-end="url(#arrowhead126)" style="fill:none"></path><defs><marker id="arrowhead126" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 0 0 L 0 0 z" style="fill: #333"></path></marker></defs></g><g class="edgePath LS-W LE-A" style="opacity: 1;" id="L-W-A"><path class="path" d="M259.8940332703671,355.4984130859375L264.0958098018237,349.3317464192708C268.2975863332802,343.1650797526042,276.70113939619335,330.8317464192708,280.9029159276499,314.8317464192708C285.10469245910645,298.8317464192708,285.10469245910645,279.1650797526042,285.10469245910645,261.4984130859375C285.10469245910645,243.83174641927084,285.10469245910645,228.16507975260416,285.10469245910645,216.16507975260416C285.10469245910645,204.16507975260416,285.10469245910645,195.83174641927084,285.10469245910645,191.66507975260416L285.10469245910645,187.4984130859375" marker-end="url(#arrowhead127)" style="fill:none"></path><defs><marker id="arrowhead127" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 0 0 L 0 0 z" style="fill: #333"></path></marker></defs></g><g class="edgePath LS-R LE-I" style="opacity: 1;" id="L-R-I"><path class="path" d="M90.16328239440918,237.4984130859375L90.16328239440918,233.33174641927084C90.16328239440918,229.16507975260416,90.16328239440918,220.83174641927084,90.16328239440918,211.4692179361979C90.16328239440918,202.106689453125,90.16328239440918,191.7149658203125,90.16328239440918,186.51910400390625L90.16328239440918,181.3232421875" marker-end="url(#arrowhead128)" style="fill:none"></path><defs><marker id="arrowhead128" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 0 0 L 0 0 z" style="fill: #333"></path></marker></defs></g><g class="edgePath LS-I LE-G" style="opacity: 1;" id="L-I-G"><path class="path" d="M90.16328239440918,108.1751708984375L90.16328239440918,102.97930908203125C90.16328239440918,97.783447265625,90.16328239440918,87.3917236328125,90.16328239440918,78.02919514973958C90.16328239440918,68.66666666666667,90.16328239440918,60.333333333333336,90.16328239440918,56.166666666666664L90.16328239440918,52" marker-end="url(#arrowhead129)" style="fill:none"></path><defs><marker id="arrowhead129" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 0 0 L 0 0 z" style="fill: #333"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-S-R" class="edgeLabel L-LS-S' L-LE-R"></span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(161.3289089202881,318.4984130859375)"><g transform="translate(-60.40156173706055,-12)" class="label"><rect rx="0" ry="0" width="120.8031234741211" height="24"></rect><foreignObject width="120.8031234741211" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-W-R" class="edgeLabel L-LS-W' L-LE-R">REST, WebSocket</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform="translate(285.10469245910645,259.4984130859375)"><g transform="translate(-17.4375,-12)" class="label"><rect rx="0" ry="0" width="34.875" height="24"></rect><foreignObject width="34.875" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-W-A" class="edgeLabel L-LS-W' L-LE-A">REST</span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-R-I" class="edgeLabel L-LS-R' L-LE-I"></span></div></foreignObject></g></g><g class="edgeLabel" style="opacity: 1;" transform=""><g transform="translate(0,0)" class="label"><rect rx="0" ry="0" width="0" height="0"></rect><foreignObject width="0" height="0"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;"><span id="L-L-I-G" class="edgeLabel L-LS-I' L-LE-G"></span></div></foreignObject></g></g></g><g class="nodes"><g class="node default" style="opacity: 1;" id="flowchart-S-130" transform="translate(49.962501525878906,377.4984130859375)"><rect rx="0" ry="0" x="-41.96249961853027" y="-22" width="83.92499923706055" height="44" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-31.962499618530273,-12)"><foreignObject width="63.92499923706055" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Sensoren</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="flowchart-R-131" transform="translate(90.16328239440918,259.4984130859375)"><rect rx="0" ry="0" x="-28.981250762939453" y="-22" width="57.962501525878906" height="44" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-18.981250762939453,-12)"><foreignObject width="37.962501525878906" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">RevPi</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="flowchart-W-132" transform="translate(244.90391159057617,377.4984130859375)"><rect rx="0" ry="0" x="-50.368751525878906" y="-22" width="100.73750305175781" height="44" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-40.368751525878906,-12)"><foreignObject width="80.73750305175781" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">App-Device</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="flowchart-A-135" label-offset-y="13.832805118108626" transform="translate(285.10469245910645,144.74920654296875)"><path d="M 0,13.832805118108626 a 77.41875457763672,13.832805118108626 0,0,0 154.83750915527344 0 a 77.41875457763672,13.832805118108626 0,0,0 -154.83750915527344 0 l 0,57.832805118108624 a 77.41875457763672,13.832805118108626 0,0,0 154.83750915527344 0 l 0,-57.832805118108624" transform="translate(-77.41875457763672,-42.749207677162936)" class="label-container"></path><g class="label" transform="translate(0,0)"><g transform="translate(-67.41875457763672,-12)"><foreignObject width="134.83750915527344" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Auftragsdatenbank</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="flowchart-I-137" label-offset-y="9.716023834793653" transform="translate(90.16328239440918,144.74920654296875)"><path d="M 0,9.716023834793653 a 39.73125076293945,9.716023834793653 0,0,0 79.4625015258789 0 a 39.73125076293945,9.716023834793653 0,0,0 -79.4625015258789 0 l 0,53.71602383479365 a 39.73125076293945,9.716023834793653 0,0,0 79.4625015258789 0 l 0,-53.71602383479365" transform="translate(-39.73125076293945,-36.57403575219048)" class="label-container"></path><g class="label" transform="translate(0,0)"><g transform="translate(-29.731250762939453,-12)"><foreignObject width="59.462501525878906" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">InfluxDB</div></foreignObject></g></g></g><g class="node default" style="opacity: 1;" id="flowchart-G-139" transform="translate(90.16328239440918,30)"><rect rx="0" ry="0" x="-38.46249961853027" y="-22" width="76.92499923706055" height="44" class="label-container"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-28.462499618530273,-12)"><foreignObject width="56.92499923706055" height="24"><div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; white-space: nowrap;">Grafana</div></foreignObject></g></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="mermaid1.svg"
+   version="1.1"
+   viewBox="0 0 370.5234375 407.4984130859375"
+   style="max-width: 370.5234375px;"
+   height="407.4984130859375"
+   width="100%"
+   id="graph-div">
+  <metadata
+     id="metadata133">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs131" />
+  <sodipodi:namedview
+     inkscape:current-layer="graph-div"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="213.48898"
+     inkscape:cx="78.834868"
+     inkscape:zoom="1.3066343"
+     showgrid="false"
+     id="namedview129"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <style
+     id="style2">#graph-div {font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;fill:#333;}#graph-div .error-icon{fill:#552222;}#graph-div .error-text{fill:#552222;stroke:#552222;}#graph-div .edge-thickness-normal{stroke-width:2px;}#graph-div .edge-thickness-thick{stroke-width:3.5px;}#graph-div .edge-pattern-solid{stroke-dasharray:0;}#graph-div .edge-pattern-dashed{stroke-dasharray:3;}#graph-div .edge-pattern-dotted{stroke-dasharray:2;}#graph-div .marker{fill:#333333;stroke:#333333;}#graph-div .marker.cross{stroke:#333333;}#graph-div svg{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:16px;}#graph-div .label{font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;color:#333;}#graph-div .cluster-label text{fill:#333;}#graph-div .cluster-label span{color:#333;}#graph-div .label text,#graph-div span{fill:#333;color:#333;}#graph-div .node rect,#graph-div .node circle,#graph-div .node ellipse,#graph-div .node polygon,#graph-div .node path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#graph-div .node .label{text-align:center;}#graph-div .node.clickable{cursor:pointer;}#graph-div .arrowheadPath{fill:#333333;}#graph-div .edgePath .path{stroke:#333333;stroke-width:2.0px;}#graph-div .flowchart-link{stroke:#333333;fill:none;}#graph-div .edgeLabel{background-color:#e8e8e8;text-align:center;}#graph-div .edgeLabel rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#graph-div .cluster rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}#graph-div .cluster text{fill:#333;}#graph-div .cluster span{color:#333;}#graph-div div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;font-size:12px;background:hsl(80, 100%, 96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}#graph-div :root{--mermaid-font-family:&quot;trebuchet ms&quot;,verdana,arial,sans-serif;}</style>
+  <g
+     transform="matrix(0.91365027,0,0,0.91806372,16.728446,-6.1662047)"
+     id="g126">
+    <g
+       id="g124"
+       class="output">
+      <g
+         id="g4"
+         class="clusters" />
+      <g
+         id="g46"
+         class="edgePaths">
+        <g
+           id="L-S-R"
+           style="opacity:1"
+           class="edgePath LS-S LE-R">
+          <path
+             id="path6"
+             style="fill:none"
+             marker-end="url(#arrowhead125)"
+             d="m 49.962502,355.49841 v -6.16666 c 0,-6.16667 0,-18.5 4.201776,-30.83334 4.201777,-12.33333 12.60533,-24.66666 16.807106,-30.83333 l 4.201777,-6.16667"
+             class="path" />
+          <defs
+             id="defs11">
+            <marker
+               orient="auto"
+               markerHeight="6"
+               markerWidth="8"
+               markerUnits="strokeWidth"
+               refY="5"
+               refX="9"
+               viewBox="0 0 10 10"
+               id="arrowhead125">
+              <path
+                 id="path8"
+                 style="fill:#333333"
+                 d="M 0,0 Z" />
+            </marker>
+          </defs>
+        </g>
+        <g
+           id="L-W-R"
+           style="opacity:1"
+           class="edgePath LS-W LE-R">
+          <path
+             id="path14"
+             style="fill:none"
+             marker-end="url(#arrowhead126)"
+             d="m 213.74035,355.49841 -8.73524,-6.16666 c -8.73524,-6.16667 -26.20572,-18.5 -42.37918,-30.83334 -16.17345,-12.33333 -31.04988,-24.66666 -38.4881,-30.83333 l -7.43821,-6.16667"
+             class="path" />
+          <defs
+             id="defs19">
+            <marker
+               orient="auto"
+               markerHeight="6"
+               markerWidth="8"
+               markerUnits="strokeWidth"
+               refY="5"
+               refX="9"
+               viewBox="0 0 10 10"
+               id="arrowhead126">
+              <path
+                 id="path16"
+                 style="fill:#333333"
+                 d="M 0,0 Z" />
+            </marker>
+          </defs>
+        </g>
+        <g
+           id="L-W-A"
+           style="opacity:1"
+           class="edgePath LS-W LE-A">
+          <path
+             id="path22"
+             style="fill:none"
+             marker-end="url(#arrowhead127)"
+             d="m 259.89403,355.49841 4.20178,-6.16666 c 4.20178,-6.16667 12.60533,-18.5 16.80711,-34.5 4.20177,-16 4.20177,-35.66667 4.20177,-53.33334 0,-17.66666 0,-33.33333 0,-45.33333 0,-12 0,-20.33333 0,-24.5 v -4.16667"
+             class="path" />
+          <defs
+             id="defs27">
+            <marker
+               orient="auto"
+               markerHeight="6"
+               markerWidth="8"
+               markerUnits="strokeWidth"
+               refY="5"
+               refX="9"
+               viewBox="0 0 10 10"
+               id="arrowhead127">
+              <path
+                 id="path24"
+                 style="fill:#333333"
+                 d="M 0,0 Z" />
+            </marker>
+          </defs>
+        </g>
+        <g
+           id="L-R-I"
+           style="opacity:1"
+           class="edgePath LS-R LE-I">
+          <path
+             id="path30"
+             style="fill:none"
+             marker-end="url(#arrowhead128)"
+             d="m 90.163282,237.49841 v -4.16666 c 0,-4.16667 0,-12.5 0,-21.86253 0,-9.36253 0,-19.75425 0,-24.95012 v -5.19586"
+             class="path" />
+          <defs
+             id="defs35">
+            <marker
+               orient="auto"
+               markerHeight="6"
+               markerWidth="8"
+               markerUnits="strokeWidth"
+               refY="5"
+               refX="9"
+               viewBox="0 0 10 10"
+               id="arrowhead128">
+              <path
+                 id="path32"
+                 style="fill:#333333"
+                 d="M 0,0 Z" />
+            </marker>
+          </defs>
+        </g>
+        <g
+           id="L-I-G"
+           style="opacity:1"
+           class="edgePath LS-I LE-G">
+          <path
+             id="path38"
+             style="fill:none"
+             marker-end="url(#arrowhead129)"
+             d="m 90.163282,108.17517 v -5.19586 c 0,-5.195863 0,-15.587586 0,-24.950115 0,-9.362528 0,-17.695862 0,-21.862528 V 52"
+             class="path" />
+          <defs
+             id="defs43">
+            <marker
+               orient="auto"
+               markerHeight="6"
+               markerWidth="8"
+               markerUnits="strokeWidth"
+               refY="5"
+               refX="9"
+               viewBox="0 0 10 10"
+               id="arrowhead129">
+              <path
+                 id="path40"
+                 style="fill:#333333"
+                 d="M 0,0 Z" />
+            </marker>
+          </defs>
+        </g>
+      </g>
+      <g
+         id="g78"
+         class="edgeLabels">
+        <g
+           id="g52"
+           style="opacity:1"
+           class="edgeLabel">
+          <g
+             id="g50"
+             class="label">
+            <rect
+               y="0"
+               x="0"
+               id="rect48"
+               height="0"
+               width="0"
+               ry="0"
+               rx="0" />
+            <foreignObject
+               height="0"
+               width="0">
+              <xhtml:div
+                 style="display: inline-block; white-space: nowrap;">
+                <xhtml:span
+                   class="edgeLabel L-LS-S' L-LE-R"
+                   id="L-L-S-R" />
+              </xhtml:div>
+            </foreignObject>
+          </g>
+        </g>
+        <g
+           id="g58"
+           transform="translate(161.32891,318.49841)"
+           style="opacity:1"
+           class="edgeLabel">
+          <g
+             id="g56"
+             class="label"
+             transform="translate(-60.401562,-12)">
+            <rect
+               y="0"
+               x="0"
+               id="rect54"
+               height="24"
+               width="120.80312"
+               ry="0"
+               rx="0" />
+            <foreignObject
+               height="24"
+               width="120.8031234741211">
+              <xhtml:div
+                 style="display: inline-block; white-space: nowrap;">
+                <xhtml:span
+                   class="edgeLabel L-LS-W' L-LE-R"
+                   id="L-L-W-R">REST, WebSocket</xhtml:span>
+              </xhtml:div>
+            </foreignObject>
+          </g>
+        </g>
+        <g
+           id="g64"
+           transform="translate(285.10469,259.49841)"
+           style="opacity:1"
+           class="edgeLabel">
+          <g
+             id="g62"
+             class="label"
+             transform="translate(-17.4375,-12)">
+            <rect
+               y="0"
+               x="0"
+               id="rect60"
+               height="24"
+               width="34.875"
+               ry="0"
+               rx="0" />
+            <foreignObject
+               height="24"
+               width="34.875">
+              <xhtml:div
+                 style="display: inline-block; white-space: nowrap;">
+                <xhtml:span
+                   class="edgeLabel L-LS-W' L-LE-A"
+                   id="L-L-W-A">REST</xhtml:span>
+              </xhtml:div>
+            </foreignObject>
+          </g>
+        </g>
+        <g
+           id="g70"
+           style="opacity:1"
+           class="edgeLabel">
+          <g
+             id="g68"
+             class="label">
+            <rect
+               y="0"
+               x="0"
+               id="rect66"
+               height="0"
+               width="0"
+               ry="0"
+               rx="0" />
+            <foreignObject
+               height="0"
+               width="0">
+              <xhtml:div
+                 style="display: inline-block; white-space: nowrap;">
+                <xhtml:span
+                   class="edgeLabel L-LS-R' L-LE-I"
+                   id="L-L-R-I" />
+              </xhtml:div>
+            </foreignObject>
+          </g>
+        </g>
+        <g
+           id="g76"
+           style="opacity:1"
+           class="edgeLabel">
+          <g
+             id="g74"
+             class="label">
+            <rect
+               y="0"
+               x="0"
+               id="rect72"
+               height="0"
+               width="0"
+               ry="0"
+               rx="0" />
+            <foreignObject
+               height="0"
+               width="0">
+              <xhtml:div
+                 style="display: inline-block; white-space: nowrap;">
+                <xhtml:span
+                   class="edgeLabel L-LS-I' L-LE-G"
+                   id="L-L-I-G" />
+              </xhtml:div>
+            </foreignObject>
+          </g>
+        </g>
+      </g>
+      <g
+         id="g122"
+         class="nodes">
+        <g
+           transform="translate(49.962502,377.49841)"
+           id="flowchart-S-130"
+           style="opacity:1"
+           class="node default">
+          <rect
+             id="rect80"
+             class="label-container"
+             height="44"
+             width="83.925003"
+             y="-22"
+             x="-41.962502"
+             ry="0"
+             rx="0" />
+          <g
+             id="g84"
+             class="label">
+            <g
+               id="g82"
+               transform="translate(-31.9625,-12)">
+              <foreignObject
+                 height="24"
+                 width="63.92499923706055">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">Sensoren</xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(90.163282,259.49841)"
+           id="flowchart-R-131"
+           style="opacity:1"
+           class="node default">
+          <rect
+             id="rect87"
+             class="label-container"
+             height="44"
+             width="57.962502"
+             y="-22"
+             x="-28.981251"
+             ry="0"
+             rx="0" />
+          <g
+             id="g91"
+             class="label">
+            <g
+               id="g89"
+               transform="translate(-18.981251,-12)">
+              <foreignObject
+                 height="24"
+                 width="37.962501525878906">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">RevPi</xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(244.90391,377.49841)"
+           id="flowchart-W-132"
+           style="opacity:1"
+           class="node default">
+          <rect
+             id="rect94"
+             class="label-container"
+             height="44"
+             width="100.7375"
+             y="-22"
+             x="-50.368752"
+             ry="0"
+             rx="0" />
+          <g
+             id="g98"
+             class="label">
+            <g
+               id="g96"
+               transform="translate(-40.368752,-12)">
+              <foreignObject
+                 height="24"
+                 width="80.73750305175781">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">App-Device</xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(285.10469,144.74921)"
+           label-offset-y="13.832805118108626"
+           id="flowchart-A-135"
+           style="opacity:1"
+           class="node default">
+          <path
+             id="path101"
+             class="label-container"
+             transform="translate(-77.418755,-42.749208)"
+             d="m 0,13.832805 a 77.418755,13.832805 0 0 0 154.83751,0 77.418755,13.832805 0 0 0 -154.83751,0 V 71.66561 a 77.418755,13.832805 0 0 0 154.83751,0 V 13.832805" />
+          <g
+             id="g105"
+             class="label">
+            <g
+               id="g103"
+               transform="translate(-67.418755,-12)">
+              <foreignObject
+                 height="24"
+                 width="134.83750915527344">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">Auftragsdatenbank</xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(90.163282,144.74921)"
+           label-offset-y="9.716023834793653"
+           id="flowchart-I-137"
+           style="opacity:1"
+           class="node default">
+          <path
+             id="path108"
+             class="label-container"
+             transform="translate(-39.731251,-36.574036)"
+             d="m 0,9.7160238 a 39.731251,9.7160238 0 0 0 79.462502,0 39.731251,9.7160238 0 0 0 -79.462502,0 V 63.432048 a 39.731251,9.7160238 0 0 0 79.462502,0 V 9.7160238" />
+          <g
+             id="g112"
+             class="label">
+            <g
+               id="g110"
+               transform="translate(-29.731251,-12)">
+              <foreignObject
+                 height="24"
+                 width="59.462501525878906">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">InfluxDB</xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+        </g>
+        <g
+           transform="translate(90.163282,30)"
+           id="flowchart-G-139"
+           style="opacity:1"
+           class="node default">
+          <rect
+             id="rect115"
+             class="label-container"
+             height="44"
+             width="76.925003"
+             y="-22"
+             x="-38.462502"
+             ry="0"
+             rx="0" />
+          <g
+             id="g119"
+             class="label">
+            <g
+               id="g117"
+               transform="translate(-28.4625,-12)">
+              <foreignObject
+                 height="24"
+                 width="56.92499923706055">
+                <xhtml:div
+                   style="display: inline-block; white-space: nowrap;">Grafana</xhtml:div>
+              </foreignObject>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(0.11217949,0,0,0.11217949,41.132609,365.07155)"
+     id="g1046">
+    <g
+       id="g983">
+	<path
+   d="m 42,93.832 c -5.514,0 -10,4.486 -10,10 0,5.514 4.486,10 10,10 5.514,0 10,-4.486 10,-10 0,-5.514 -4.486,-10 -10,-10 z"
+   id="path967" />
+
+	<path
+   d="m 42,66 c -5.514,0 -10,4.486 -10,10 0,5.514 4.486,10 10,10 5.514,0 10,-4.486 10,-10 0,-5.514 -4.486,-10 -10,-10 z"
+   id="path969" />
+
+	<path
+   d="m 247.78,125.854 h -0.01 c -4.142,0 -7.495,3.357 -7.495,7.5 0,4.143 3.363,7.5 7.505,7.5 4.143,0 7.5,-3.357 7.5,-7.5 0,-4.143 -3.357,-7.5 -7.5,-7.5 z"
+   id="path971" />
+
+	<path
+   d="m 158.479,16.5 v -9 c 0,-4.143 -3.357,-7.5 -7.5,-7.5 h -33 c -4.143,0 -7.5,3.357 -7.5,7.5 V 55.171 H 81.436 V 40.5 c 0,-4.143 -3.357,-7.5 -7.5,-7.5 H 11.5 C 7.357,33 4,36.357 4,40.5 v 231 c 0,4.143 3.357,7.5 7.5,7.5 h 13.535 c -2.831,3.484 -4.535,7.919 -4.535,12.748 0,11.167 9.085,20.252 20.252,20.252 11.168,0 20.253,-9.085 20.253,-20.252 0,-4.829 -1.704,-9.264 -4.535,-12.748 h 199.565 c -2.831,3.484 -4.535,7.919 -4.535,12.748 0,11.167 9.085,20.252 20.252,20.252 11.168,0 20.253,-9.085 20.253,-20.252 0,-4.829 -1.704,-9.264 -4.535,-12.748 h 13.03 c 4.143,0 7.5,-3.357 7.5,-7.5 V 102.773 c 0,-4.143 -3.357,-7.5 -7.5,-7.5 h -1 V 57 c 0,-4.143 -3.357,-7.5 -7.5,-7.5 h -33 c -4.143,0 -7.5,3.357 -7.5,7.5 v 9 h -0.75 C 241.238,66 233.5,58.262 233.5,48.75 233.5,30.968 219.032,16.5 201.25,16.5 Z M 40.752,297 c -2.896,0 -5.252,-2.356 -5.252,-5.252 0,-2.896 2.356,-5.253 5.252,-5.253 2.896,0 5.253,2.356 5.253,5.253 0,2.896 -2.357,5.252 -5.253,5.252 z m 231,0 c -2.896,0 -5.252,-2.356 -5.252,-5.252 0,-2.896 2.356,-5.253 5.252,-5.253 2.896,0 5.253,2.356 5.253,5.253 0,2.896 -2.357,5.252 -5.253,5.252 z M 81.436,95 H 89 v 11.5 c 0,2.762 2.238,5 5,5 h 82.5 c 2.762,0 5,-2.238 5,-5 V 95 h 6.022 v 60.377 H 81.436 Z m 50.068,-14 h 6.5 v 20.5 h -6.5 z m 71.018,74.377 V 110.273 H 293 v 45.104 z M 266.5,64.5 h 18 v 30.773 h -18 z m -108.021,-33 h 42.771 c 9.512,0 17.25,7.738 17.25,17.25 0,17.782 14.468,32.25 32.25,32.25 h 0.75 V 95.273 H 202.522 V 62.671 c 0,-4.143 -3.357,-7.5 -7.5,-7.5 H 158.478 V 31.5 Z m 0,42 v -3.329 h 29.044 V 85 H 176.5 c -2.762,0 -5,2.238 -5,5 v 11.5 H 148.004 V 81 h 2.974 c 4.143,0 7.501,-3.357 7.501,-7.5 z m -33,-58.5 h 18 v 51 h -18 z m -15,55.171 V 73.5 c 0,4.143 3.357,7.5 7.5,7.5 h 3.526 v 20.5 H 99 V 90 c 0,-2.762 -2.238,-5 -5,-5 H 81.436 V 70.171 Z M 66.436,264 H 19 V 48 h 47.436 z m 15,-92.567 H 187.523 V 264 H 81.436 Z M 202.522,264 V 171.433 H 293 V 264 Z"
+   id="path973" />
+
+	<path
+   d="M 176.5,134.5 H 94 c -2.762,0 -5,2.238 -5,5 0,2.762 2.238,5 5,5 h 82.5 c 2.762,0 5,-2.238 5,-5 0,-2.762 -2.238,-5 -5,-5 z"
+   id="path975" />
+
+	<path
+   d="m 160,233.5 h -49.5 c -2.762,0 -5,2.238 -5,5 0,2.762 2.238,5 5,5 H 160 c 2.762,0 5,-2.238 5,-5 0,-2.762 -2.238,-5 -5,-5 z"
+   id="path977" />
+
+	<path
+   d="m 160,217 h -49.5 c -2.762,0 -5,2.238 -5,5 0,2.762 2.238,5 5,5 H 160 c 2.762,0 5,-2.238 5,-5 0,-2.762 -2.238,-5 -5,-5 z"
+   id="path979" />
+
+	<path
+   d="m 134.498,196.5 c 4.143,0 7.5,-3.357 7.5,-7.5 0,-4.143 -3.357,-7.5 -7.5,-7.5 h -0.01 c -4.142,0 -7.495,3.357 -7.495,7.5 0,4.143 3.363,7.5 7.505,7.5 z"
+   id="path981" />
+
+</g>
+    <g
+       id="g985">
+</g>
+    <g
+       id="g987">
+</g>
+    <g
+       id="g989">
+</g>
+    <g
+       id="g991">
+</g>
+    <g
+       id="g993">
+</g>
+    <g
+       id="g995">
+</g>
+    <g
+       id="g997">
+</g>
+    <g
+       id="g999">
+</g>
+    <g
+       id="g1001">
+</g>
+    <g
+       id="g1003">
+</g>
+    <g
+       id="g1005">
+</g>
+    <g
+       id="g1007">
+</g>
+    <g
+       id="g1009">
+</g>
+    <g
+       id="g1011">
+</g>
+    <g
+       id="g1013">
+</g>
+  </g>
+  <g
+     transform="matrix(0.09911083,0,0,0.09911083,224.2531,365.07155)"
+     id="g1109">
+    <g
+       id="g1052">
+	<path
+   d="m 176.57,200.676 c 24.125,0 80.846,-29.034 80.846,-98.603 0,-49.095 -5.984,-89.802 -61.013,-97.344 V 1.308 c -13.196,-1.744 -26.47,-1.744 -39.666,0 V 4.73 c -55.029,7.542 -61.013,48.249 -61.013,97.344 -0.001,69.568 56.721,98.602 80.846,98.602 z m 19.833,-184.06 c 3.487,0.532 6.669,1.201 9.564,1.985 l -4.723,42.271 h -4.842 V 16.616 Z m -39.666,0 v 44.256 h -4.842 l -4.723,-42.271 c 2.896,-0.785 6.078,-1.453 9.565,-1.985 z m -48.891,67.977 0.775,-0.448 0.392,2.081 c 1.653,8.789 5.828,21.386 9.931,21.879 23.519,2.82 40.753,4.025 57.626,4.025 16.873,0 34.107,-1.205 57.625,-4.025 4.107,-0.494 8.28,-13.09 9.931,-21.878 l 0.391,-2.083 0.775,0.449 c 0.271,5.765 0.354,11.635 0.354,17.481 0,34.005 -15.015,55.075 -27.612,66.762 -15.872,14.727 -33.494,20.072 -41.466,20.072 -7.972,0 -25.594,-5.345 -41.466,-20.072 -12.597,-11.687 -27.612,-32.757 -27.612,-66.762 0.002,-5.846 0.085,-11.716 0.356,-17.481 z"
+   id="path1048" />
+
+	<path
+   d="m 326.662,301.799 c -4.127,-25.665 -12.624,-58.724 -29.667,-70.472 -11.638,-8.024 -52.243,-29.718 -69.582,-38.981 l -0.3,-0.16 c -1.982,-1.06 -4.403,-0.846 -6.17,0.541 -9.083,7.131 -19.033,11.937 -29.573,14.284 -1.862,0.415 -3.39,1.738 -4.067,3.521 l -10.733,28.291 -10.733,-28.291 c -0.677,-1.783 -2.205,-3.106 -4.067,-3.521 -10.54,-2.347 -20.49,-7.153 -29.573,-14.284 -1.768,-1.388 -4.189,-1.601 -6.17,-0.541 -17.133,9.155 -58.235,31.292 -69.831,39.107 -19.619,13.217 -28.198,61.052 -29.718,70.507 -0.151,0.938 -0.064,1.897 0.253,2.792 0.702,1.982 18.708,48.548 149.839,48.548 131.131,0 149.137,-46.566 149.839,-48.548 0.316,-0.896 0.404,-1.856 0.253,-2.793 z m -67.232,33.675 c -20.077,5.113 -46.949,8.704 -82.865,8.704 -35.918,0 -62.787,-3.591 -82.867,-8.704 6.136,-52.384 0.311,-97.785 -2.797,-116.367 3.126,-1.735 6.313,-3.487 9.479,-5.223 11.773,31.122 13.855,70.533 13.855,70.533 h 56.999 10.662 56.997 c 0,0 2.085,-39.447 13.874,-70.575 3.163,1.728 6.347,3.474 9.472,5.202 -3.106,18.545 -8.952,63.988 -2.809,116.43 z"
+   id="path1050" />
+
+</g>
+    <g
+       id="g1054">
+</g>
+    <g
+       id="g1056">
+</g>
+    <g
+       id="g1058">
+</g>
+    <g
+       id="g1060">
+</g>
+    <g
+       id="g1062">
+</g>
+    <g
+       id="g1064">
+</g>
+    <g
+       id="g1066">
+</g>
+    <g
+       id="g1068">
+</g>
+    <g
+       id="g1070">
+</g>
+    <g
+       id="g1072">
+</g>
+    <g
+       id="g1074">
+</g>
+    <g
+       id="g1076">
+</g>
+    <g
+       id="g1078">
+</g>
+    <g
+       id="g1080">
+</g>
+    <g
+       id="g1082">
+</g>
+  </g>
+</svg>
