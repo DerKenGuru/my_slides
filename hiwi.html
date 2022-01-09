@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/simple.css">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h2>Hardware</h2>
+					<ul>
+						<li></i>Anemometer</li>
+						<li style="list-style-type: none;"><small>Reedkontakte und Hallsensoren</small></li>
+						<li>Aktoren</li>
+						<li style="list-style-type: none;"><small>Relay, Funksteckdose</small></li>
+						<li>TODO: Sensoren bestellen</li>
+					</ul>
+
+
+				</section>
+				<section>
+					<section>
+						<h2>Mobilisiern des ESP</h2>
+						<ul>
+							<li>Kapselung</li>
+							<!-- Welche geräte sollen "gekapselt" werden? -->
+							<li>Stromversorgung</li>
+							<li>Speicherung</li>
+						</ul>
+
+					</section>
+
+					<section>
+						<h2>Stromversorgung</h2>
+						<ul>
+							<li>LiPo vs. LiFePO4</li>
+							<li>Stromverbrauch reduzieren</li>
+							<li style="list-style-type: none;"><small>Deep-Sleep, Reedkontakte etc.</small></li>
+							<li>TODO: Derzeitigen Fortschritt festhalten</li>
+							<li>TODO: Akku-Lösungen bestellen und ausarbeiten?</li>
+
+						</ul>
+
+					</section>
+
+					<section>
+						<h2>Speicherung</h2>
+						<ul>
+							<li>LoraWAN</li>
+							<li style="list-style-type: none;"><small>LORA 1:1 Vernetzung</small></li>
+							<li style="list-style-type: none;"><small>TODO: Derzeitigen Fortschritt festhalten</small></li>
+							<li>SIM-Karte</li>
+							<li style="list-style-type: none;"><small>TODO: SIM-Kare und SIM800-Modul bestellen</small></li>
+
+						</ul>
+
+					</section>
+
+
+				</section>
+				<section>
+					<h2>DataScience</h2>
+					<ul>
+						<li>Quellen finden</li>
+						<li>Handy als Sensor</li>
+						<li>Auswertung mit Orange</li>
+						<li style="list-style-type: none;"><small>Streamsheets</small></li>
+
+					</ul>
+
+
+				</section>
+				<section>
+					<h2>Node-RED</h2>
+					<ul>
+						<li>OPC UA</li>
+						<li>Telegramm</li>
+					</ul>
+				</section>
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>
